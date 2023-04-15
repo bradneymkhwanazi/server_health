@@ -33,3 +33,4 @@ ps auxf --width=200
 echo "--------------------"
 echo "vmstat:"
 vmstat 1 5
+
